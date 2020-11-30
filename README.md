@@ -34,7 +34,7 @@ De la figura anterior se puede observar que el promedio temporal, o sea lineas y
 Para esto se sigue el procedimiento del video explicativo del proyecto. Se crea la correspondiente transformada de fourier; luego se grafica en el tiempo. Los resultados son los
 que siguen:
 
-![Espectro](Espectro.png) 
+![Espectro](Espectro.png)  
 
 
 
